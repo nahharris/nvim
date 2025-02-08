@@ -53,6 +53,7 @@ require("lazy").setup {
 }
 
 require "config.custom.colorscheme"
+require "config.custom.langs"
 -- require("fzf-lua").setup {
 --     { "telescope", "fzf-native" },
 --     winopts = { preview = { wrap = true } },

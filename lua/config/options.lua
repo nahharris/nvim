@@ -6,3 +6,10 @@ vim.opt.shiftwidth = 4
 vim.opt.tabstop = 4
 
 vim.g.autoformat = true
+
+vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
+
+vim.g.lazyvim_python_lsp = "pyright"
+vim.g.lazyvim_python_ruff = "ruff"
+
+vim.g.lazyvim_eslint_auto_format = true

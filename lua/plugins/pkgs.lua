@@ -34,6 +34,7 @@ return {
                 "flake8",
                 "pylint",
                 "mypy",
+                "rust-analyzer",
             },
         },
     },
