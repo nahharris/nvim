@@ -21,3 +21,9 @@ lspconfig.nixd.setup {
         },
     },
 }
+
+lspconfig.powershell_es.setup {
+    settings = {
+        powershell = { codeFormatting = { Preset = "OTBS" } },
+    },
+}

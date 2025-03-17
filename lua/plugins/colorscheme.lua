@@ -1,14 +1,12 @@
 return {
     {
         "RRethy/base16-nvim",
-        config = function()
-            
-        end,
+        config = function() end,
     },
     {
         "LazyVim/LazyVim",
         opts = {
-            colorscheme = "base16-catppuccin-mocha",
+            colorscheme = "base16-ayu-dark",
         },
     },
 }
